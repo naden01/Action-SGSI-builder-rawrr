@@ -1,4 +1,4 @@
-name: SGSI_Build
+name: sepong_ah
 
 on:
   workflow_dispatch:
